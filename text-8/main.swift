@@ -6,7 +6,11 @@
 //  Copyright © 2018 s20171103197. All rights reserved.
 //
 
-import Foundation
 
+int main()
+    {
+        char x[4],y[4]
+        x[0]=100
+}
 print("Hello, World!")
 
